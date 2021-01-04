@@ -1,1 +1,1 @@
-# script-template
+# template-mongo-data-analysis
